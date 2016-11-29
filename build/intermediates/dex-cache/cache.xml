@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-4cc24b62afeb5ad5f487f0c3b026c8e6eb36b733.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-34797f07fa8eafa20df245d8431610bd666ed2fe.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-b38afe5da4aa0ab4a2d1b169925d1978b6a2aaed.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-7cad40a30e36b3b5dc68aa4c609903dad1c6e699.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-125826fb77fb4cdd69100a8e9bdfe91717dc2966.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-7b4d60a6b141fa60b54e5b2cdf1bc31452157972.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-03661d4530421bc6335cd430fd6962fcf8165737.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-54594b268b65001b89396bad5bf15b7815b6ec4f.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-a5f13ccc8bd82d0ebf59534f0f8a279d0713febd.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-7a19c092346a9a1f5869f36448fd8007a6536854.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-664bf09746569bc71e76ab5ae3e26216cf8ff708.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-5b9c1760a0c679844a5eb1fa94e29b282bf5480f.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0-b853063161f5ca12d5eb459b487a5766cfa32109.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/classes-3f85691892ac82aa85f2d34e8f26ec663797472d.jar" />
+    </item>
+    <item
+        jar="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zhouli/Desktop/dyfoo-git/android_ios/dfyooapp-iphone/dfyoo_ios/StickView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0-0b9391087fe02db9e7b9b0617a812a01663c4142.jar" />
+    </item>
+
+</items>
